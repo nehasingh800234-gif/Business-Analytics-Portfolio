@@ -56,4 +56,4 @@ Key Insights
 - Attrition trends vary across years, providing an opportunity to investigate employee retention patterns.
 
 Dashboard Preview
-![HR Analytics Dashboard](HR%20Dashboard.png)
+<img src="HR%20Dashboard%20Image.png" alt="HR Analytics Dashboard" width="900">
